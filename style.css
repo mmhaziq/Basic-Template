@@ -1,0 +1,36 @@
+html,body{
+    height: 100%;
+}
+
+#cover{
+    background: #222 url('img/stars.jpg') center center no-repeat;
+    background-size: cover;
+    __color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.color-white{
+    color: white;
+}
+.ctr-form{
+    justify-content: center;
+
+}
+#cover-caption{
+    width: 100%;
+}
+.section-content{
+    padding: 5rem;
+}
+#about{
+    background: url('img/girlincar.jpg') center center no-repeat;
+    background-size: cover;
+
+}
+.about-text{
+    background: rgba(8, 0, 0, 0.8);
+    color: white;
+    padding: 1.88rem;
+}
